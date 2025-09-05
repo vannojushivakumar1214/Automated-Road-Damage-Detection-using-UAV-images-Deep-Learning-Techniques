@@ -1,0 +1,7 @@
+Potholes are a significant concern for maintaining safe and efficient daily commutes. This research work focuses on applying YOLO V5, a state-of-the-art deep learning model for object identification, 
+to edge devices for detecting potholes on highways. The proposed model evaluates the performance of YOLO V5 on a dataset of images, including potholes in varying road conditions and illumination fluctuations,
+as well as on real-time video acquired from a moving car. In order to identify potholes in moving cars in real time, the YOLO V5 model needs to have high accuracy and a fast frame rate. Our study shows that 
+YOLO V5 is an effective deep-learning model for pothole detection and can be deployed on edge devices for real time detection.The high accuracy and fast processing speed of YOLO V5 make it a suitable model for
+moving vehicles, helping improve road safety and reduce the risk of accidents caused by potholes. Furthermore, the YOLO V5 model has been demonstrated to be lightweight and run on edge devices with low 
+computational power. The results demonstrate the feasibility of using YOLOv5 for real-time pothole detection and pave the way for developing intelligent transportation systems that automatically detect and 
+alert drivers to road hazards.
